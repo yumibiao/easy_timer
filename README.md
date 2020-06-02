@@ -18,7 +18,7 @@ The landscape picture used for display comes from bing.com .
 ### Partly dependent sources:
 
 > ```
-> You can go to these places to download a version to replace the version of this warehouse.
+> You can go to these places to download a version to replace the version of this repositorie.
 > You can use any font file to replace the fonts that come with us.
 > ```
 >
